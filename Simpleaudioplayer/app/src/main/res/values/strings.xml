@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Simpleaudioplayer</string>
+    <string name="hello">hello</string>
+    <string name="rev">rev</string>
+    <string name="play">play</string>
+</resources>
